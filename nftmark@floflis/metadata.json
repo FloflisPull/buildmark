@@ -1,0 +1,18 @@
+{
+    "name": "NFTmark",
+    "uuid": "nftmark@floflis",
+    "version": "4.2-20190710",
+    "description": "Used by Floflis to identify an NFT desktop background.",
+    "url": "https://github.com/Floflis/nftmark",
+    "website": "https://github.com/Floflis/nftmark",
+    "multiversion": true,
+    "cinnamon-version": [
+        "3.4",
+        "3.6",
+        "3.8",
+        "4.0",
+        "4.2",
+        "4.4",
+        "4.6"
+    ]
+}
