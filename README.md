@@ -1,14 +1,14 @@
-# [NFTmark - A fork of a Cinnamon extension][repo]
+# [Buildmark - A fork of a fork of a Cinnamon extension][repo]
 
-Used by Floflis to identify an NFT desktop background
+Used by Floflis to identify an insiders build
 
 [![Screenshot](screenshot.png)][repo]
 
 ## Changelog
-See the list of changes on Github:  [https://github.com/Floflis/nftmark/commits/master][commits].
+See the list of changes on Github:  [https://github.com/FloflisPull/buildmark/commits/master][commits].
 
 ## Issues
-If you find any bug you can file an issue in the Github project page: [https://github.com/Floflis/nftmark/issues][issues].
+If you find any bug you can file an issue in the Github project page: [https://github.com/FloflisPull/buildmark/issues][issues].
 
 Make sure you have an updated version of Cinnamon and try to explain the more detailed you can what the problem is (don't just say _"it doesn't work"_ because that doesn't help at all).
 
@@ -17,7 +17,7 @@ Contributions are welcome, also to remove useless functions such as custom water
 
 ## License
 This extension is free software and it's licensed under GPL3.
-You should have received an unobfuscated copy of the source code. If you don't, you can get it on [https://github.com/Floflis/nftmark][repo].
+You should have received an unobfuscated copy of the source code. If you don't, you can get it on [https://github.com/FloflisPull/buildmark][repo].
 
 The included watermark logos are property of their creators. They are not part of this program, so this license doesn't apply to them unless otherwise specified. See the ATTRIBUTIONS file.
 
@@ -41,7 +41,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-[repo]: https://github.com/Floflis/nftmark
-[commits]: https://github.com/Floflis/nftmark/commits/master
-[issues]: https://github.com/Floflis/nftmark/issues
-[releases]: https://github.com/Floflis/nftmark/releases
+[repo]: https://github.com/FloflisPull/buildmark
+[commits]: https://github.com/FloflisPull/buildmark/commits/master
+[issues]: https://github.com/FloflisPull/buildmark/issues
+[releases]: https://github.com/FloflisPull/buildmark/releases
